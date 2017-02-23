@@ -10,3 +10,4 @@
 3. Animate
 4. Randomize a part of project 
 5. Keyframe animations
+6. Add 300 
