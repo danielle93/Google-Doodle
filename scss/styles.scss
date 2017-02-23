@@ -2,16 +2,7 @@
 @import 'google-homepage';
 //first frame
 img {
-    opacity: .2;
-    width: 40%;
-    transition: opacity 2s, transform 2s, rotate 1s;
-    transform: scale(.25) rotate(0);
-}
-
-//last frame
-img:hover {
-    opacity: 1;
-    transform: scale(1) rotate(180deg);
+    width: 100%
 }
 
 .line {
