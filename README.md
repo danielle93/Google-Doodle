@@ -2,7 +2,7 @@
 
 ## National Corgi Day April 8th, July 1st, October 28th.
 
-Corgi Day' is by our calculation on: April the 20th. However, on theSo Cal Corgi Beach day there are three dates in which hundreds of people and their corgis gather on the beaches of Southern California to "PAWTY". 
+Corgi Day' is by our calculation on: April the 20th. However, on the So Cal Corgi Beach day event page, there are three dates in which hundreds of people and their corgis gather on the beaches of Southern California to "PAWTY". 
 
 The event was first started in October 2012 for corgi lovers to unite and celebrate these adorable little fluff balls.
 
