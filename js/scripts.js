@@ -1,13 +1,20 @@
 // YOUR SCRIPTS GO HERE
 
-var img0 = '../img/200-1.jpg';
-var img1 = '../img/200-2.jpg';
-var img2 = '../img/200-3.jpg';
+var img0 = '../img/corg0.svg';
+var img1 = '../img/corg1.svg';
+var img2 = '../img/corg2.svg';
+var img3 = '../img/corg3.svg';
+var img4 = '../img/corg4.svg';
+var img5 = '../img/corg5.svg';
+var img6 = '../img/corg6.svg';
+var img7 = '../img/corg7.svg';
 
 // Get Random Number
-var max = 3;
-var numRand = Math.floor( Math.random() * max );
-console.log(numRand);
+var max = 8;
+var numRand = Math.floor(Math.random() * max);
+
+var numRand2 = Math.floor(Math.random() * max);
 
 // Display randomized images
-$('#random').attr( 'src', eval('img' + numRand));
+$('#random').attr('src', eval('img' + numRand));
+$('#random2').attr('src', eval('img' + numRand2));

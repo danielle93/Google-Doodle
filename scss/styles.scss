@@ -1,13 +1,28 @@
 // Grand Central Station//
 @import 'google-homepage';
 //first frame
-img {
-    width: 120%;
+
+#random {
+    width: 13%;
+    margin: 0;
+    margin-top: 4%;
+    margin-left: 38%;
+    z-index: 1;
+    position: absolute;
+    
 }
 
-.line {
-    fill: none;
-    stroke: #ff0000;
-    stroke-width: 2;
-    stroke-miterlimit: 10;
+#random2 {
+    width: 13%;
+    margin: 0;
+    margin-top: 4%;
+    margin-left: 50%;
+    z-index: 1;
+    position: absolute;
+}
+
+img {
+    width: 75%;
+    margin-left: 10%;
+    z-index: -1;
 }
