@@ -19,16 +19,17 @@ According to [the event website](http://socalcorgibeachday.com/events/) the next
 
 ### 2017 SPRING CORGI BEACH DAY- HUNTINGTON BEACH, CA
 
-Saturday, April 8, 2017
-10:00am  3:00pm
-Huntington Dog Beach, CA 
+#### Saturday, April 8, 2017
+#### 10:00am  3:00pm
+#### Huntington Dog Beach, CA 
 
 "Grab your corgi and get on your corg-kinis...the next So Cal Corgi Beach Day is Saturday April 8th, 2017 back at the HB Dog Beach in Huntington Beach, CA!!!
 
 Mark your calendars for THE BIGGEST CORGI PAWTY ON THE PLANET !!!"
 
 
-### NEXT: 
+
+# NEXT: 
 1. Create Moodboard and Style Tile .psd
 2. Favicon
 3. Animate
