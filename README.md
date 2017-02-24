@@ -17,7 +17,7 @@ This Holiday is not officially acknolwedged by the US Government.
 
 According to [the event website](http://socalcorgibeachday.com/events/) the next Corgi Day is:
 
-## 2017 SPRING CORGI BEACH DAY- HUNTINGTON BEACH, CA
+### 2017 SPRING CORGI BEACH DAY- HUNTINGTON BEACH, CA
 
 Saturday, April 8, 2017
 10:00am  3:00pm
