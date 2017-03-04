@@ -55,5 +55,9 @@ button {
     padding: .5em 1em;
     text-align: center;
     margin: .2em .5em;
-    transition: opacity 1s;
+    transition: background-color 1s;
     }
+
+button:hover{
+    background-color: #b77318;
+}

@@ -1,5 +1,25 @@
 // YOUR SCRIPTS GO HERE
 
+//Draw SVG
+var line = $('#heart').drawsvg({
+  duration : 1000,
+  reverse: false,
+  stagger: 1500
+});
+
+//Random Number Generator
+var limit = 3;
+var randNum = Math.floor(Math.random() * limit);
+//console.log(randNum);
+
+//Click on stage
+$('.corgiButt').click(function () {
+    //animate stroke drawing
+line.drawsvg('animate');
+});
+
+
+//Random Images
 var img0 = 'img/corg0.svg';
 var img1 = 'img/corg1.svg';
 var img2 = 'img/corg2.svg';
