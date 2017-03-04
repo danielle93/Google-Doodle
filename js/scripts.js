@@ -1,8 +1,9 @@
 // YOUR SCRIPTS GO HERE
 
 //Draw SVG
-var heart = $('#heart').drawsvg({
+var line = $('#heart').drawsvg({
   duration : 1000,
+  reverse: false,
   stagger: 1500
 });
 
@@ -11,11 +12,10 @@ var limit = 3;
 var randNum = Math.floor(Math.random() * limit);
 //console.log(randNum);
 
-//Click on Random SVG
-$('.corgiButts').click(function () {
-
+//Click on stage
+$('.corgiButt').click(function () {
     //animate stroke drawing
-heart.drawsvg('animate');
+line.drawsvg('animate');
 });
 
 
@@ -36,5 +36,5 @@ var numRand = Math.floor(Math.random() * max);
 var numRand2 = Math.floor(Math.random() * max);
 
 // Display randomized images
-$('#random1').attr('src', eval('img' + numRand));
+$('#random').attr('src', eval('img' + numRand));
 $('#random2').attr('src', eval('img' + numRand2));

@@ -2,7 +2,7 @@
 @import 'google-homepage';
 //first frame
 
-#random1 {
+#random {
     width: 13%;
     margin: 0;
     margin-top: 6%;
@@ -35,12 +35,11 @@ body {
 
 #heart {
     margin-left: 46.8%;
-    margin-top: 4%;
+    margin-top: 3%;
     width: 7%;
     position: absolute;
     z-index: 2;
 }
-
 
 .st0{fill:none;stroke:#FF0000;stroke-width:20;}
 .st1{fill:none;stroke:#FF0000;stroke-width:32;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
