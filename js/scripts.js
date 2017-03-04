@@ -14,15 +14,10 @@ var randNum = Math.floor(Math.random() * limit);
 
 //Click on Random SVG
 $('.corgiButt').click(function () {
+    var tmp = true;
     //animate stroke drawing
 line.drawsvg('animate');
 });
-
-//Heart Disappear After 4.5 seconds
-
-setTimeout(function() {
-  $('#heart').fadeOut().empty();
-}, 4500);
 
 
 
