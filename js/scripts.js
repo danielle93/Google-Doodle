@@ -12,11 +12,18 @@ var limit = 3;
 var randNum = Math.floor(Math.random() * limit);
 //console.log(randNum);
 
-//Click on stage
+//Click on Random SVG
 $('.corgiButt').click(function () {
     //animate stroke drawing
 line.drawsvg('animate');
 });
+
+//Heart Disappear After 4.5 seconds
+
+setTimeout(function() {
+  $('#heart').fadeOut().empty();
+}, 4500);
+
 
 
 //Random Images
