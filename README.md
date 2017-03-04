@@ -1,5 +1,9 @@
 # Google Doodle
 
+## Designing With Emotion
+
+I wanted to capture the hearts of corgi lovers and make them say "awww!" Corgi butts, "sploots", and their wiggling butts are some of corgi lover's favorite traits about the breed.
+
 ## National Corgi Day April 8th, July 1st, October 28th.
 
 Corgi Day' is by our calculation on: April the 20th. However, on the So Cal Corgi Beach day event page, there are three dates in which hundreds of people and their corgis gather on the beaches of Southern California to "PAWTY". 
@@ -27,12 +31,6 @@ According to [the event website](http://socalcorgibeachday.com/events/) the next
 
 Mark your calendars for THE BIGGEST CORGI PAWTY ON THE PLANET !!!"
 
-
-
-# NEXT: 
-1. Create Moodboard and Style Tile .psd
-2. Favicon
-3. Animate
-4. Randomize a part of project 
-5. Keyframe animations
-6. Add 300 
+[Buzzfeed Video on Corgi Beach Day](https://www.youtube.com/watch?v=b_dLYB3imaM)
+[Someone's Vlog At The Event](https://www.youtube.com/watch?v=ADGq_-YDj9k)
+[Podcast](https://www.youtube.com/watch?v=S2sk6HjiVkg)
